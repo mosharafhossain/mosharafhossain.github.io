@@ -19,7 +19,7 @@ main:
     url: /files/mosharaf-cv.pdf
     
   - title: "Contact"
-    url: /files/contact.html
+    url: /contact/
     
   #- title: "Guide"
   #  url: /markdown/
