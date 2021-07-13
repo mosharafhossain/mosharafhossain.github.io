@@ -18,5 +18,8 @@ main:
   - title: "CV"
     url: /files/mosharaf-cv.pdf
     
+  - title: "Contact"
+    url: /files/contact.html
+    
   #- title: "Guide"
   #  url: /markdown/
