@@ -25,9 +25,9 @@ I received my Master's degree in Computer Science from <a href="https://www.tnte
 - December 2018: One [paper](https://ieeexplore.ieee.org/abstract/document/8622013) accpeted at BPOD in IEEE Bigdata 2018.  
 
 # Publications
-- An Analysis of Negation in Natural Language Understanding Corpora 
-  **Md Mosharaf Hossain**, Dhivya Chinnappa, and Eduardo Blanco, accepted at [ACL 2022](https://www.2022.aclweb.org/). 
-  The paper with the code and data coming soon.
+- An Analysis of Negation in Natural Language Understanding Corpora   
+  **Md Mosharaf Hossain**, Dhivya Chinnappa, and Eduardo Blanco, accepted at [ACL 2022](https://www.2022.aclweb.org/).   
+  The paper with the code and data is coming soon.
   
 - An analysis of natural language inference benchmarks through the lens of negation  
   **Md Mosharaf Hossain**, Venelin Kovatchev, Pranoy Dutta, Tiffany Kao, Elizabeth Wei, and Eduardo Blanco, [EMNLP 2020](https://2020.emnlp.org/)  
