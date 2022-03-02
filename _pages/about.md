@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 <p align="justify">
-I am a doctoral candidate in the <a href="https://computerscience.engineering.unt.edu/">Computer Science and Engineering Department</a> at University of North Texas, advised by Professor <a href="http://www.cse.unt.edu/~blanco/">Eduardo Blanco</a>. My research interests include natural language processing and artificial intelligence, specifically understanding and inferring the semantics of negation, generation of affirmative interpretation for negation, and analyzing negation in machine translation and multilingual situations. 
+I am a doctoral candidate in the <a href="https://computerscience.engineering.unt.edu/">Computer Science and Engineering Department</a> at University of North Texas, advised by Professor <a href="http://www.cse.unt.edu/~blanco/">Eduardo Blanco</a>. My research focuses on natural language understanding, multilinguality, factuality, information extraction, and commonsense reasoning. In particular, I study how to comprehend and reason with several linguistic phenomena such as negation in monolingual and multilingual settings.  
 </p>
 
 <p align="justify">
