@@ -14,7 +14,7 @@ I am a doctoral candidate in the <a href="https://computerscience.engineering.un
 </p>
 
 <p align="justify">
-I received my Master's degree in Computer Science from <a href="https://www.tntech.edu/">Tennessee Tech</a>, and my Bachelor’s Degree in Computer Science and Engineering from <a href="https://www.buet.ac.bd/">Bangladesh University of Engineering and Technology</a>.
+I received my Master's degree in Computer Science from <a href="https://www.tntech.edu/">Tennessee Tech</a>, and my Bachelor’s degree in Computer Science and Engineering from <a href="https://www.buet.ac.bd/">Bangladesh University of Engineering and Technology</a>.
 </p>
 
 
