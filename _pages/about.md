@@ -27,7 +27,7 @@ I received my Master's degree in Computer Science from <a href="https://www.tnte
 
 # Publications
 - A Question-Answer Driven Approach to Reveal Affirmative Interpretations from Verbal Negations  
-  **Md Mosharaf Hossain**, Luke Holman, Anusha Kakileti, Tiffany Iris Kao, Nathan Raul Brito, Aaron Abraham Mathews, Eduardo Blanco, accepted at Findings of [NAACL 2022](https://2022.naacl.org/).   
+  **Md Mosharaf Hossain**, Luke Holman, Anusha Kakileti, Tiffany Iris Kao, Nathan Raul Brito, Aaron Abraham Mathews, and Eduardo Blanco, accepted at Findings of [NAACL 2022](https://2022.naacl.org/).   
   The paper with the code and data is coming soon.
   
 - An Analysis of Negation in Natural Language Understanding Corpora   
