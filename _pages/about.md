@@ -10,11 +10,11 @@ redirect_from:
 
 # About Me
 <p align="justify">
-I am an Applied Scientist at Amazon. My research focuses on the intersection of natural language processing and machine/deep learning. In 2022, I graduated with a Ph.D. in Computer Science from the University of North Texas. 
+I am an Applied Scientist at Amazon. My research focuses on the intersection of natural language processing and machine/deep learning. In 2022, I graduated with a Ph.D. in Computer Science and Engineering from the University of North Texas. 
 </p>
 
 <p align="justify">
-I also have a Master's degree in Computer Science from <a href="https://www.tntech.edu/">Tennessee Tech</a> and a Bachelor’s degree in Computer Science and Engineering from <a href="https://www.buet.ac.bd/">Bangladesh University of Engineering and Technology</a>.
+I also have a master's degree in Computer Science from Tennessee Tech and a bachelor’s degree in Computer Science and Engineering from Bangladesh University of Engineering and Technology.
 </p>
 
 
